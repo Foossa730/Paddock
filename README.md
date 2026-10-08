@@ -131,9 +131,9 @@ Les tests tournent sur une base MongoDB en mémoire et ne touchent pas à Atlas.
 
 ### k6
 
-k6 v1.3.0 pour Mac (Apple Silicon) est fourni dans `bin/k6` (binaire officiel Grafana,
-SHA-256 de l'archive vérifié). Les commandes `npm run k6:*` l'utilisent directement :
-rien d'autre à installer.
+Les commandes `npm run k6:*` et la page `/rapports` utilisent le programme `bin/k6`.
+Il n'est pas versionné (65 Mo) : télécharge l'archive macOS de k6 sur
+[les releases officielles](https://github.com/grafana/k6/releases) et place le fichier `k6` dans `bin/`.
 
 Pour l'avoir aussi partout dans le Terminal : `brew install k6`, puis `k6 version`.
 Autres systèmes : voir le [guide d'installation k6](https://grafana.com/docs/learning-paths/run-first-k6-test/install-k6/).
@@ -153,6 +153,20 @@ requêtes/s, temps de réponse, erreurs et utilisateurs virtuels. À la fin, un 
 est enregistré dans `rapports/` (ex. `rapports/rapport-charge.html`).
 
 Pour viser une autre adresse : `BASE_URL=https://mon-api.example.com npm run k6:charge`.
+
+### Tutoriel k6 (PDF « Installer k6, ouvrir le dashboard et simuler une charge »)
+
+Les étapes du tutoriel sont recréées dans `tutoriel/` et se lancent une par une depuis **http://localhost:3000/rapports** :
+
+| Bouton | Script | Rapport |
+|---|---|---|
+| Étape 07 · Premier test (1 VU, 30 s) | `tutoriel/premier-test.js` | `rapports/rapport-1vu.html` |
+| Étape 08 · 10 VU pendant 60 s | `tutoriel/premier-test.js --vus 10 --duration 60s` | `rapports/rapport-10vu.html` |
+| Étape 12 · Montée 5 → 10 → 20 → 0 VU | `tutoriel/charge.js` | `rapports/rapport-progressif.html` |
+| Étape 15A · Réponse lente | cible `/api/entrainement?mode=slow` | `rapports/rapport-lent.html` |
+| Étape 15B · Réponse en erreur | cible `/api/entrainement?mode=error` | `rapports/rapport-erreur.html` |
+
+Chaque essai enregistre aussi un résumé chiffré (`rapports/<nom>.json`). La route `/api/entrainement` sert uniquement à l'exercice : `?mode=slow` répond en 700 ms, `?mode=error` renvoie une erreur 500.
 
 ### Ce qui est vérifié
 

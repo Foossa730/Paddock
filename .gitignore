@@ -1,0 +1,12 @@
+node_modules/
+.env
+bin/
+.DS_Store
+# Rapports : seuls ceux du tutoriel sont versionnés
+rapports/*
+!rapports/.gitkeep
+!rapports/rapport-1vu.*
+!rapports/rapport-10vu.*
+!rapports/rapport-progressif.*
+!rapports/rapport-lent.*
+!rapports/rapport-erreur.*

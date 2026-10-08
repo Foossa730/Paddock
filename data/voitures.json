@@ -1,0 +1,926 @@
+[
+  {
+    "marque": "Porsche",
+    "modele": "911 GT3 (992)",
+    "annee": 2022,
+    "pays": "Allemagne",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "Flat-6 atmosphérique",
+      "cylindree_cc": 3996,
+      "puissance_ch": 510,
+      "couple_nm": 470
+    },
+    "transmission": {
+      "boite": "PDK",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.4,
+      "vitesse_max_kmh": 318
+    },
+    "poids_kg": 1435,
+    "rapport_poids_puissance_kg_ch": 2.81,
+    "prix_eur": 197000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Porsche",
+    "modele": "911 Turbo S (992)",
+    "annee": 2021,
+    "pays": "Allemagne",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "Flat-6 biturbo",
+      "cylindree_cc": 3745,
+      "puissance_ch": 650,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "PDK",
+      "rapports": 8,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.7,
+      "vitesse_max_kmh": 330
+    },
+    "poids_kg": 1640,
+    "rapport_poids_puissance_kg_ch": 2.52,
+    "prix_eur": 240000,
+    "places": 4,
+    "en_production": true
+  },
+  {
+    "marque": "Porsche",
+    "modele": "718 Cayman GT4 RS",
+    "annee": 2022,
+    "pays": "Allemagne",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "Flat-6 atmosphérique",
+      "cylindree_cc": 3996,
+      "puissance_ch": 500,
+      "couple_nm": 450
+    },
+    "transmission": {
+      "boite": "PDK",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.4,
+      "vitesse_max_kmh": 315
+    },
+    "poids_kg": 1415,
+    "rapport_poids_puissance_kg_ch": 2.83,
+    "prix_eur": 155000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Porsche",
+    "modele": "Taycan Turbo S",
+    "annee": 2020,
+    "pays": "Allemagne",
+    "categorie": "Berline sportive",
+    "moteur": {
+      "energie": "Électrique",
+      "architecture": "2 moteurs électriques",
+      "cylindree_cc": null,
+      "puissance_ch": 761,
+      "couple_nm": 1050
+    },
+    "transmission": {
+      "boite": "Automatique",
+      "rapports": 2,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.8,
+      "vitesse_max_kmh": 260
+    },
+    "poids_kg": 2295,
+    "rapport_poids_puissance_kg_ch": 3.02,
+    "prix_eur": 190000,
+    "places": 4,
+    "en_production": true
+  },
+  {
+    "marque": "Ferrari",
+    "modele": "296 GTB",
+    "annee": 2022,
+    "pays": "Italie",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Hybride",
+      "architecture": "V6 biturbo + électrique",
+      "cylindree_cc": 2992,
+      "puissance_ch": 830,
+      "couple_nm": 740
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.9,
+      "vitesse_max_kmh": 330
+    },
+    "poids_kg": 1470,
+    "rapport_poids_puissance_kg_ch": 1.77,
+    "prix_eur": 270000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Ferrari",
+    "modele": "SF90 Stradale",
+    "annee": 2020,
+    "pays": "Italie",
+    "categorie": "Hypercar",
+    "moteur": {
+      "energie": "Hybride",
+      "architecture": "V8 biturbo + 3 moteurs électriques",
+      "cylindree_cc": 3990,
+      "puissance_ch": 1000,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.5,
+      "vitesse_max_kmh": 340
+    },
+    "poids_kg": 1570,
+    "rapport_poids_puissance_kg_ch": 1.57,
+    "prix_eur": 450000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Ferrari",
+    "modele": "812 Competizione",
+    "annee": 2021,
+    "pays": "Italie",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V12 atmosphérique",
+      "cylindree_cc": 6496,
+      "puissance_ch": 830,
+      "couple_nm": 692
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.85,
+      "vitesse_max_kmh": 340
+    },
+    "poids_kg": 1487,
+    "rapport_poids_puissance_kg_ch": 1.79,
+    "prix_eur": 500000,
+    "places": 2,
+    "en_production": false
+  },
+  {
+    "marque": "Ferrari",
+    "modele": "12Cilindri",
+    "annee": 2024,
+    "pays": "Italie",
+    "categorie": "GT",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V12 atmosphérique",
+      "cylindree_cc": 6496,
+      "puissance_ch": 830,
+      "couple_nm": 678
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.9,
+      "vitesse_max_kmh": 340
+    },
+    "poids_kg": 1560,
+    "rapport_poids_puissance_kg_ch": 1.88,
+    "prix_eur": 400000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Lamborghini",
+    "modele": "Huracán STO",
+    "annee": 2021,
+    "pays": "Italie",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V10 atmosphérique",
+      "cylindree_cc": 5204,
+      "puissance_ch": 640,
+      "couple_nm": 565
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.0,
+      "vitesse_max_kmh": 310
+    },
+    "poids_kg": 1339,
+    "rapport_poids_puissance_kg_ch": 2.09,
+    "prix_eur": 330000,
+    "places": 2,
+    "en_production": false
+  },
+  {
+    "marque": "Lamborghini",
+    "modele": "Revuelto",
+    "annee": 2023,
+    "pays": "Italie",
+    "categorie": "Hypercar",
+    "moteur": {
+      "energie": "Hybride",
+      "architecture": "V12 atmosphérique + 3 moteurs électriques",
+      "cylindree_cc": 6498,
+      "puissance_ch": 1015,
+      "couple_nm": 725
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.5,
+      "vitesse_max_kmh": 350
+    },
+    "poids_kg": 1772,
+    "rapport_poids_puissance_kg_ch": 1.75,
+    "prix_eur": 500000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Lamborghini",
+    "modele": "Temerario",
+    "annee": 2024,
+    "pays": "Italie",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Hybride",
+      "architecture": "V8 biturbo + 3 moteurs électriques",
+      "cylindree_cc": 3995,
+      "puissance_ch": 920,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.7,
+      "vitesse_max_kmh": 343
+    },
+    "poids_kg": 1690,
+    "rapport_poids_puissance_kg_ch": 1.84,
+    "prix_eur": 300000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "McLaren",
+    "modele": "750S",
+    "annee": 2023,
+    "pays": "Royaume-Uni",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 biturbo",
+      "cylindree_cc": 3994,
+      "puissance_ch": 750,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "Séquentielle SSG",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.8,
+      "vitesse_max_kmh": 332
+    },
+    "poids_kg": 1389,
+    "rapport_poids_puissance_kg_ch": 1.85,
+    "prix_eur": 330000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "McLaren",
+    "modele": "Artura",
+    "annee": 2022,
+    "pays": "Royaume-Uni",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Hybride",
+      "architecture": "V6 biturbo + électrique",
+      "cylindree_cc": 2993,
+      "puissance_ch": 680,
+      "couple_nm": 720
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.0,
+      "vitesse_max_kmh": 330
+    },
+    "poids_kg": 1498,
+    "rapport_poids_puissance_kg_ch": 2.2,
+    "prix_eur": 240000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Aston Martin",
+    "modele": "Vantage",
+    "annee": 2024,
+    "pays": "Royaume-Uni",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 biturbo",
+      "cylindree_cc": 3982,
+      "puissance_ch": 665,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "Automatique",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.5,
+      "vitesse_max_kmh": 325
+    },
+    "poids_kg": 1605,
+    "rapport_poids_puissance_kg_ch": 2.41,
+    "prix_eur": 190000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Aston Martin",
+    "modele": "DB12",
+    "annee": 2023,
+    "pays": "Royaume-Uni",
+    "categorie": "GT",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 biturbo",
+      "cylindree_cc": 3982,
+      "puissance_ch": 680,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "Automatique",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.6,
+      "vitesse_max_kmh": 325
+    },
+    "poids_kg": 1685,
+    "rapport_poids_puissance_kg_ch": 2.48,
+    "prix_eur": 230000,
+    "places": 4,
+    "en_production": true
+  },
+  {
+    "marque": "Lotus",
+    "modele": "Emira V6",
+    "annee": 2022,
+    "pays": "Royaume-Uni",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V6 compresseur",
+      "cylindree_cc": 3456,
+      "puissance_ch": 405,
+      "couple_nm": 420
+    },
+    "transmission": {
+      "boite": "Manuelle",
+      "rapports": 6,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 4.3,
+      "vitesse_max_kmh": 290
+    },
+    "poids_kg": 1405,
+    "rapport_poids_puissance_kg_ch": 3.47,
+    "prix_eur": 98000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Bugatti",
+    "modele": "Chiron Super Sport",
+    "annee": 2021,
+    "pays": "France",
+    "categorie": "Hypercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "W16 quadriturbo",
+      "cylindree_cc": 7993,
+      "puissance_ch": 1600,
+      "couple_nm": 1600
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 7,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.4,
+      "vitesse_max_kmh": 440
+    },
+    "poids_kg": 1995,
+    "rapport_poids_puissance_kg_ch": 1.25,
+    "prix_eur": 3500000,
+    "places": 2,
+    "en_production": false
+  },
+  {
+    "marque": "Alpine",
+    "modele": "A110 S",
+    "annee": 2023,
+    "pays": "France",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "4 cylindres turbo",
+      "cylindree_cc": 1798,
+      "puissance_ch": 300,
+      "couple_nm": 340
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 4.2,
+      "vitesse_max_kmh": 260
+    },
+    "poids_kg": 1109,
+    "rapport_poids_puissance_kg_ch": 3.7,
+    "prix_eur": 76000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Koenigsegg",
+    "modele": "Jesko Absolut",
+    "annee": 2022,
+    "pays": "Suède",
+    "categorie": "Hypercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 biturbo",
+      "cylindree_cc": 5065,
+      "puissance_ch": 1600,
+      "couple_nm": 1500
+    },
+    "transmission": {
+      "boite": "Multi-embrayages LST",
+      "rapports": 9,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.5,
+      "vitesse_max_kmh": 480
+    },
+    "poids_kg": 1390,
+    "rapport_poids_puissance_kg_ch": 0.87,
+    "prix_eur": 3000000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Pagani",
+    "modele": "Huayra",
+    "annee": 2012,
+    "pays": "Italie",
+    "categorie": "Hypercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V12 biturbo",
+      "cylindree_cc": 5980,
+      "puissance_ch": 730,
+      "couple_nm": 1000
+    },
+    "transmission": {
+      "boite": "Séquentielle",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.3,
+      "vitesse_max_kmh": 370
+    },
+    "poids_kg": 1350,
+    "rapport_poids_puissance_kg_ch": 1.85,
+    "prix_eur": 2500000,
+    "places": 2,
+    "en_production": false
+  },
+  {
+    "marque": "Rimac",
+    "modele": "Nevera",
+    "annee": 2022,
+    "pays": "Croatie",
+    "categorie": "Hypercar",
+    "moteur": {
+      "energie": "Électrique",
+      "architecture": "4 moteurs électriques",
+      "cylindree_cc": null,
+      "puissance_ch": 1914,
+      "couple_nm": 2360
+    },
+    "transmission": {
+      "boite": "Rapport unique",
+      "rapports": 1,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 1.85,
+      "vitesse_max_kmh": 412
+    },
+    "poids_kg": 2300,
+    "rapport_poids_puissance_kg_ch": 1.2,
+    "prix_eur": 2400000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Maserati",
+    "modele": "MC20",
+    "annee": 2021,
+    "pays": "Italie",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V6 biturbo",
+      "cylindree_cc": 2992,
+      "puissance_ch": 630,
+      "couple_nm": 730
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.9,
+      "vitesse_max_kmh": 325
+    },
+    "poids_kg": 1475,
+    "rapport_poids_puissance_kg_ch": 2.34,
+    "prix_eur": 230000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Mercedes-AMG",
+    "modele": "GT 63 4MATIC+",
+    "annee": 2023,
+    "pays": "Allemagne",
+    "categorie": "GT",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 biturbo",
+      "cylindree_cc": 3982,
+      "puissance_ch": 585,
+      "couple_nm": 800
+    },
+    "transmission": {
+      "boite": "Automatique MCT",
+      "rapports": 9,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.2,
+      "vitesse_max_kmh": 315
+    },
+    "poids_kg": 1970,
+    "rapport_poids_puissance_kg_ch": 3.37,
+    "prix_eur": 190000,
+    "places": 4,
+    "en_production": true
+  },
+  {
+    "marque": "BMW",
+    "modele": "M4 CSL",
+    "annee": 2022,
+    "pays": "Allemagne",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "6 cylindres en ligne biturbo",
+      "cylindree_cc": 2993,
+      "puissance_ch": 550,
+      "couple_nm": 650
+    },
+    "transmission": {
+      "boite": "Automatique",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.7,
+      "vitesse_max_kmh": 307
+    },
+    "poids_kg": 1625,
+    "rapport_poids_puissance_kg_ch": 2.95,
+    "prix_eur": 160000,
+    "places": 2,
+    "en_production": false
+  },
+  {
+    "marque": "Audi",
+    "modele": "R8 V10 Performance",
+    "annee": 2019,
+    "pays": "Allemagne",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V10 atmosphérique",
+      "cylindree_cc": 5204,
+      "puissance_ch": 620,
+      "couple_nm": 580
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 7,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.1,
+      "vitesse_max_kmh": 331
+    },
+    "poids_kg": 1595,
+    "rapport_poids_puissance_kg_ch": 2.57,
+    "prix_eur": 210000,
+    "places": 2,
+    "en_production": false
+  },
+  {
+    "marque": "Nissan",
+    "modele": "GT-R Nismo",
+    "annee": 2024,
+    "pays": "Japon",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V6 biturbo",
+      "cylindree_cc": 3799,
+      "puissance_ch": 600,
+      "couple_nm": 652
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 6,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.8,
+      "vitesse_max_kmh": 315
+    },
+    "poids_kg": 1720,
+    "rapport_poids_puissance_kg_ch": 2.87,
+    "prix_eur": 220000,
+    "places": 4,
+    "en_production": true
+  },
+  {
+    "marque": "Toyota",
+    "modele": "GR Supra 3.0",
+    "annee": 2023,
+    "pays": "Japon",
+    "categorie": "Sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "6 cylindres en ligne turbo",
+      "cylindree_cc": 2998,
+      "puissance_ch": 340,
+      "couple_nm": 500
+    },
+    "transmission": {
+      "boite": "Automatique",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 4.3,
+      "vitesse_max_kmh": 250
+    },
+    "poids_kg": 1570,
+    "rapport_poids_puissance_kg_ch": 4.62,
+    "prix_eur": 72000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Honda",
+    "modele": "Civic Type R (FL5)",
+    "annee": 2023,
+    "pays": "Japon",
+    "categorie": "Compacte sportive",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "4 cylindres turbo",
+      "cylindree_cc": 1996,
+      "puissance_ch": 329,
+      "couple_nm": 420
+    },
+    "transmission": {
+      "boite": "Manuelle",
+      "rapports": 6,
+      "type": "Traction"
+    },
+    "performances": {
+      "zero_a_cent_s": 5.4,
+      "vitesse_max_kmh": 275
+    },
+    "poids_kg": 1429,
+    "rapport_poids_puissance_kg_ch": 4.34,
+    "prix_eur": 55000,
+    "places": 5,
+    "en_production": true
+  },
+  {
+    "marque": "Mazda",
+    "modele": "MX-5 2.0",
+    "annee": 2024,
+    "pays": "Japon",
+    "categorie": "Roadster",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "4 cylindres atmosphérique",
+      "cylindree_cc": 1998,
+      "puissance_ch": 184,
+      "couple_nm": 205
+    },
+    "transmission": {
+      "boite": "Manuelle",
+      "rapports": 6,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 6.5,
+      "vitesse_max_kmh": 219
+    },
+    "poids_kg": 1065,
+    "rapport_poids_puissance_kg_ch": 5.79,
+    "prix_eur": 38000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Chevrolet",
+    "modele": "Corvette Z06 (C8)",
+    "annee": 2023,
+    "pays": "États-Unis",
+    "categorie": "Supercar",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 atmosphérique",
+      "cylindree_cc": 5463,
+      "puissance_ch": 680,
+      "couple_nm": 623
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 8,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.9,
+      "vitesse_max_kmh": 312
+    },
+    "poids_kg": 1561,
+    "rapport_poids_puissance_kg_ch": 2.3,
+    "prix_eur": 140000,
+    "places": 2,
+    "en_production": true
+  },
+  {
+    "marque": "Ford",
+    "modele": "Mustang Shelby GT500",
+    "annee": 2020,
+    "pays": "États-Unis",
+    "categorie": "Muscle car",
+    "moteur": {
+      "energie": "Essence",
+      "architecture": "V8 compresseur",
+      "cylindree_cc": 5163,
+      "puissance_ch": 770,
+      "couple_nm": 847
+    },
+    "transmission": {
+      "boite": "Double embrayage",
+      "rapports": 7,
+      "type": "Propulsion"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.5,
+      "vitesse_max_kmh": 290
+    },
+    "poids_kg": 1916,
+    "rapport_poids_puissance_kg_ch": 2.49,
+    "prix_eur": 95000,
+    "places": 4,
+    "en_production": false
+  },
+  {
+    "marque": "Tesla",
+    "modele": "Model S Plaid",
+    "annee": 2023,
+    "pays": "États-Unis",
+    "categorie": "Berline sportive",
+    "moteur": {
+      "energie": "Électrique",
+      "architecture": "3 moteurs électriques",
+      "cylindree_cc": null,
+      "puissance_ch": 1020,
+      "couple_nm": 1420
+    },
+    "transmission": {
+      "boite": "Rapport unique",
+      "rapports": 1,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 2.1,
+      "vitesse_max_kmh": 322
+    },
+    "poids_kg": 2190,
+    "rapport_poids_puissance_kg_ch": 2.15,
+    "prix_eur": 110000,
+    "places": 5,
+    "en_production": true
+  },
+  {
+    "marque": "Hyundai",
+    "modele": "Ioniq 5 N",
+    "annee": 2024,
+    "pays": "Corée du Sud",
+    "categorie": "Compacte sportive",
+    "moteur": {
+      "energie": "Électrique",
+      "architecture": "2 moteurs électriques",
+      "cylindree_cc": null,
+      "puissance_ch": 650,
+      "couple_nm": 770
+    },
+    "transmission": {
+      "boite": "Rapport unique",
+      "rapports": 1,
+      "type": "Intégrale"
+    },
+    "performances": {
+      "zero_a_cent_s": 3.5,
+      "vitesse_max_kmh": 260
+    },
+    "poids_kg": 2200,
+    "rapport_poids_puissance_kg_ch": 3.38,
+    "prix_eur": 75000,
+    "places": 5,
+    "en_production": true
+  }
+]

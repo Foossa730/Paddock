@@ -1,0 +1,34 @@
+marque,modele,annee,pays,categorie,energie,architecture,cylindree_cc,puissance_ch,couple_nm,boite,rapports,transmission,zero_a_cent_s,vitesse_max_kmh,poids_kg,rapport_poids_puissance_kg_ch,prix_eur,places,en_production
+Porsche,911 GT3 (992),2022,Allemagne,Sportive,Essence,Flat-6 atmosphérique,3996,510,470,PDK,7,Propulsion,3.4,318,1435,2.81,197000,2,True
+Porsche,911 Turbo S (992),2021,Allemagne,Sportive,Essence,Flat-6 biturbo,3745,650,800,PDK,8,Intégrale,2.7,330,1640,2.52,240000,4,True
+Porsche,718 Cayman GT4 RS,2022,Allemagne,Sportive,Essence,Flat-6 atmosphérique,3996,500,450,PDK,7,Propulsion,3.4,315,1415,2.83,155000,2,True
+Porsche,Taycan Turbo S,2020,Allemagne,Berline sportive,Électrique,2 moteurs électriques,,761,1050,Automatique,2,Intégrale,2.8,260,2295,3.02,190000,4,True
+Ferrari,296 GTB,2022,Italie,Supercar,Hybride,V6 biturbo + électrique,2992,830,740,Double embrayage,8,Propulsion,2.9,330,1470,1.77,270000,2,True
+Ferrari,SF90 Stradale,2020,Italie,Hypercar,Hybride,V8 biturbo + 3 moteurs électriques,3990,1000,800,Double embrayage,8,Intégrale,2.5,340,1570,1.57,450000,2,True
+Ferrari,812 Competizione,2021,Italie,Supercar,Essence,V12 atmosphérique,6496,830,692,Double embrayage,7,Propulsion,2.85,340,1487,1.79,500000,2,False
+Ferrari,12Cilindri,2024,Italie,GT,Essence,V12 atmosphérique,6496,830,678,Double embrayage,8,Propulsion,2.9,340,1560,1.88,400000,2,True
+Lamborghini,Huracán STO,2021,Italie,Supercar,Essence,V10 atmosphérique,5204,640,565,Double embrayage,7,Propulsion,3.0,310,1339,2.09,330000,2,False
+Lamborghini,Revuelto,2023,Italie,Hypercar,Hybride,V12 atmosphérique + 3 moteurs électriques,6498,1015,725,Double embrayage,8,Intégrale,2.5,350,1772,1.75,500000,2,True
+Lamborghini,Temerario,2024,Italie,Supercar,Hybride,V8 biturbo + 3 moteurs électriques,3995,920,800,Double embrayage,8,Intégrale,2.7,343,1690,1.84,300000,2,True
+McLaren,750S,2023,Royaume-Uni,Supercar,Essence,V8 biturbo,3994,750,800,Séquentielle SSG,7,Propulsion,2.8,332,1389,1.85,330000,2,True
+McLaren,Artura,2022,Royaume-Uni,Supercar,Hybride,V6 biturbo + électrique,2993,680,720,Double embrayage,8,Propulsion,3.0,330,1498,2.2,240000,2,True
+Aston Martin,Vantage,2024,Royaume-Uni,Sportive,Essence,V8 biturbo,3982,665,800,Automatique,8,Propulsion,3.5,325,1605,2.41,190000,2,True
+Aston Martin,DB12,2023,Royaume-Uni,GT,Essence,V8 biturbo,3982,680,800,Automatique,8,Propulsion,3.6,325,1685,2.48,230000,4,True
+Lotus,Emira V6,2022,Royaume-Uni,Sportive,Essence,V6 compresseur,3456,405,420,Manuelle,6,Propulsion,4.3,290,1405,3.47,98000,2,True
+Bugatti,Chiron Super Sport,2021,France,Hypercar,Essence,W16 quadriturbo,7993,1600,1600,Double embrayage,7,Intégrale,2.4,440,1995,1.25,3500000,2,False
+Alpine,A110 S,2023,France,Sportive,Essence,4 cylindres turbo,1798,300,340,Double embrayage,7,Propulsion,4.2,260,1109,3.7,76000,2,True
+Koenigsegg,Jesko Absolut,2022,Suède,Hypercar,Essence,V8 biturbo,5065,1600,1500,Multi-embrayages LST,9,Propulsion,2.5,480,1390,0.87,3000000,2,True
+Pagani,Huayra,2012,Italie,Hypercar,Essence,V12 biturbo,5980,730,1000,Séquentielle,7,Propulsion,3.3,370,1350,1.85,2500000,2,False
+Rimac,Nevera,2022,Croatie,Hypercar,Électrique,4 moteurs électriques,,1914,2360,Rapport unique,1,Intégrale,1.85,412,2300,1.2,2400000,2,True
+Maserati,MC20,2021,Italie,Supercar,Essence,V6 biturbo,2992,630,730,Double embrayage,8,Propulsion,2.9,325,1475,2.34,230000,2,True
+Mercedes-AMG,GT 63 4MATIC+,2023,Allemagne,GT,Essence,V8 biturbo,3982,585,800,Automatique MCT,9,Intégrale,3.2,315,1970,3.37,190000,4,True
+BMW,M4 CSL,2022,Allemagne,Sportive,Essence,6 cylindres en ligne biturbo,2993,550,650,Automatique,8,Propulsion,3.7,307,1625,2.95,160000,2,False
+Audi,R8 V10 Performance,2019,Allemagne,Supercar,Essence,V10 atmosphérique,5204,620,580,Double embrayage,7,Intégrale,3.1,331,1595,2.57,210000,2,False
+Nissan,GT-R Nismo,2024,Japon,Supercar,Essence,V6 biturbo,3799,600,652,Double embrayage,6,Intégrale,2.8,315,1720,2.87,220000,4,True
+Toyota,GR Supra 3.0,2023,Japon,Sportive,Essence,6 cylindres en ligne turbo,2998,340,500,Automatique,8,Propulsion,4.3,250,1570,4.62,72000,2,True
+Honda,Civic Type R (FL5),2023,Japon,Compacte sportive,Essence,4 cylindres turbo,1996,329,420,Manuelle,6,Traction,5.4,275,1429,4.34,55000,5,True
+Mazda,MX-5 2.0,2024,Japon,Roadster,Essence,4 cylindres atmosphérique,1998,184,205,Manuelle,6,Propulsion,6.5,219,1065,5.79,38000,2,True
+Chevrolet,Corvette Z06 (C8),2023,États-Unis,Supercar,Essence,V8 atmosphérique,5463,680,623,Double embrayage,8,Propulsion,2.9,312,1561,2.3,140000,2,True
+Ford,Mustang Shelby GT500,2020,États-Unis,Muscle car,Essence,V8 compresseur,5163,770,847,Double embrayage,7,Propulsion,3.5,290,1916,2.49,95000,4,False
+Tesla,Model S Plaid,2023,États-Unis,Berline sportive,Électrique,3 moteurs électriques,,1020,1420,Rapport unique,1,Intégrale,2.1,322,2190,2.15,110000,5,True
+Hyundai,Ioniq 5 N,2024,Corée du Sud,Compacte sportive,Électrique,2 moteurs électriques,,650,770,Rapport unique,1,Intégrale,3.5,260,2200,3.38,75000,5,True

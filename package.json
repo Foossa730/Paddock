@@ -1,0 +1,30 @@
+{
+  "name": "api-voitures",
+  "version": "1.0.0",
+  "description": "API REST CRUD pour un catalogue de voitures de sport (Express + MongoDB Atlas)",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node scripts/seed.js",
+    "seed:reset": "node scripts/seed.js --reset",
+    "test": "node --test tests/",
+    "k6:smoke": "K6_NO_USAGE_REPORT=true K6_WEB_DASHBOARD=true K6_WEB_DASHBOARD_OPEN=true K6_WEB_DASHBOARD_PERIOD=2s K6_WEB_DASHBOARD_EXPORT=rapports/rapport-smoke.html ./bin/k6 run k6/smoke.js",
+    "k6:charge": "K6_NO_USAGE_REPORT=true K6_WEB_DASHBOARD=true K6_WEB_DASHBOARD_OPEN=true K6_WEB_DASHBOARD_PERIOD=2s K6_WEB_DASHBOARD_EXPORT=rapports/rapport-charge.html ./bin/k6 run k6/charge.js",
+    "k6:stress": "K6_NO_USAGE_REPORT=true K6_WEB_DASHBOARD=true K6_WEB_DASHBOARD_OPEN=true K6_WEB_DASHBOARD_PERIOD=2s K6_WEB_DASHBOARD_EXPORT=rapports/rapport-stress.html ./bin/k6 run k6/stress.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.0"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.1.2",
+    "supertest": "^7.0.0"
+  }
+}
